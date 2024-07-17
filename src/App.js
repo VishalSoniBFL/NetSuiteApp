@@ -5,11 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h4>React Application</h4>
+        <h1>React Application</h1>
+        <p>React Execution On Netsuite</p>
       </header>
-      <body>
-        <p>Demo Connecting react to netsuite suitelet</p>
-      </body>
     </div>
   );
 }
