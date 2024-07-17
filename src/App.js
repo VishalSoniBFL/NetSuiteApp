@@ -5,16 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Creating Netsuite Functionality in React Static Only</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          NetSuite
-        </a>
+        <h4>React Application</h4>
       </header>
+      <body>
+        <p>Demo Connecting react to netsuite suitelet</p>
+      </body>
     </div>
   );
 }
