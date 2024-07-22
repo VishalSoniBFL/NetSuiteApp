@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NetSuiteApp/static/css/main.f855e6bc.css",
-    "main.js": "/NetSuiteApp/static/js/main.3fcf3514.js",
+    "main.js": "/NetSuiteApp/static/js/main.a72427fa.js",
     "static/js/453.a6a97343.chunk.js": "/NetSuiteApp/static/js/453.a6a97343.chunk.js",
     "index.html": "/NetSuiteApp/index.html",
     "main.f855e6bc.css.map": "/NetSuiteApp/static/css/main.f855e6bc.css.map",
-    "main.3fcf3514.js.map": "/NetSuiteApp/static/js/main.3fcf3514.js.map",
+    "main.a72427fa.js.map": "/NetSuiteApp/static/js/main.a72427fa.js.map",
     "453.a6a97343.chunk.js.map": "/NetSuiteApp/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3fcf3514.js"
+    "static/js/main.a72427fa.js"
   ]
 }
